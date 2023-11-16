@@ -1,0 +1,51 @@
+body{ background-image: url(../Imagenes/fondoia.jpg);background-repeat: no-repeat;}
+h1{color: ; font-size: xxx-large; text-align: center; text-decoration: underline;}
+h2{color: #3E7FD2; font-size: xx-large; text-decoration: underline;font-family: 'DM Serif Display', serif;}
+.title{position: relative; bottom: 10vh; margin-left: 65vh; }
+.title2{margin-right:65vh;}
+.title3{position: relative; bottom:1vh; margin-left: 61vh}
+.texto{font-size: x-large}
+.text{display: flex; justify-content: center; width: 50%; margin-left: 80vh; margin-bottom: -190px;font-family: 'Playfair Display', serif}
+.text2{display: flex; justify-content: center; width: 40%; margin-bottom: -190px; margin-left: 17vh; font-family: 'Playfair Display', serif }
+.text3{display: flex; justify-content: center;; width: 40%; margin-bottom: -190px; margin-left: 80vh}
+a:hover{color: red}
+  .contenedor{width: 90%;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding: 100px;
+    padding-top: 60px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    justify-content: center;}
+.texto2{font-size: x-large; position: relative; bottom: 16vh}
+.conborde{width: 50vh; height: 50vh; text-align: center;}
+.IA{background-color: none; text-decoration: none; color: blue;border:3px solid blue; border-radius: 20%; font-size: xx-large; padding: 1%; position: relative; bottom: 10vh;
+font-family: 'Dancing Script', cursive;}
+.cont{}
+.paises{display: flex; justify-content: space-around}
+.iconowhats{width: 7vh; height: 9vh; position: fixed; text-align: center; right: 2%; bottom: 2%}
+footer{background-color:grey ; padding: 1%;flex-wrap: wrap; padding-top: 0px; height: 13vh;}
+.redessociales{text-align: center; margin-left: 5%; margin-right: 5%; padding-left: 10%; padding-right: 10%; padding: 1%; padding-top: 0px}
+.face {width: 10vh;}
+.twitter{width: 6vh;}
+.IG{width: 10vh; position:relative;bottom: -8px}
+.info{color: white; padding: 1vh; padding-top: 0vh; position: relative; bottom: 28vh}
+.informacion { display: flex; justify-content: flex-end; padding-top: 0vh}
+.redesheader{ text-align: right; position: relative; bottom: 90vh;}
+.logo{ height: 10vh; position: relative; bottom: 18vh}
+.dire{display: flex; justify-content: flex-start; padding-top: 0px; position: relative; bottom: 5vh}
+.video{text-align: center;}
+.index{background-color: blue; text-decoration: none; color: white;border:3px solid blue; border-radius: 20%; font-size: xx-large; padding: 1%; position: relative;bottom: 17vh;}
+.taquito{text-align: center;}
+.text{position: relative; bottom: 10vh;}
+.imagen1{width: 150vh; height: 80vh; margin-left: 180px}
+.comp{display: flex; justify-content: flex-start; position: relative; bottom: 10vh; width: 90vh; height: 40vh; margin-left: 160px;}
+img:hover{border-radius: 60px}
+.compu2{display: flex; justify-content: flex-end;width: 160vh; height: 40vh;}
+.compu3{display: flex; justify-content: flex-start; width: 90vh; height: 40vh; margin-left: 160px}
+.navegar{font-family: 'Anton', sans-serif; text-decoration: underline; background-color: skyblue; border-radius: 10px}
+.bahia{color: white;font-family: 'Anton', sans-serif;}
